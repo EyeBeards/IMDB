@@ -1,6 +1,7 @@
 # IMDB
 Tools to process and visualize for IMDB datasets
-*Datasets and documentation found at https://www.imdb.com/interfaces/*
+
+*IMDB provides public access [datasets](https://datasets.imdbws.com) and [dcoumentation](https://www.imdb.com/interfaces/)*
 
 
 ### Director Filmography
