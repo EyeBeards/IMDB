@@ -1,5 +1,5 @@
 # IMDB
-Tools to process and visualize for IMDB datasets
+Tools to process and visualize IMDB datasets
 
 *IMDB provides public access [datasets](https://datasets.imdbws.com) and [dcoumentation](https://www.imdb.com/interfaces/)*
 
