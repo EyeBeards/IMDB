@@ -1,6 +1,4 @@
 # IMDB
-v0.1
-
 Tools to process and visualize the datasets provided to the public by IMDB.
 
 ### Director Filmography
